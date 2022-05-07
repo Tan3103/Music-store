@@ -1,4 +1,6 @@
-package DataBase;
+package Server;
+import DataBase.DBManager;
+import DataBase.PackageData;
 import com.company.*;
 import java.net.Socket;
 import java.io.ObjectInputStream;
